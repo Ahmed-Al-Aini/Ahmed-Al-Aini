@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed Sinan Al-Aini
+<h1> 👋 Hi, I'm Ahmed Sinan Al-Aini </h1>
 
 🎓 **Information Systems Student**  
 💻 Passionate about **programming and software development**  
@@ -13,8 +13,8 @@
 
 <!-- Banking-system Card -->
 <div style="border: 2px solid #1E90FF; border-radius: 15px; padding: 15px; width: 300px;">
-### 🏦 Banking-system <img src="https://img.shields.io/badge/Language-C++-blue"></img>
-<br>**C++ Banking System**  
+ <h2>🏦 Banking-system </h2><img src="https://img.shields.io/badge/Language-C++-blue"></img>
+<strong>C++ Banking System </strong>
 Demonstrates:  
 - Data structures  
 - File handling  
@@ -25,8 +25,8 @@ Demonstrates:
 
 <!-- Final-Project Card -->
 <div style="border: 2px solid #FF8C00; border-radius: 15px; padding: 15px; width: 300px;">
-### 💻 Final-Project !<img src="https://img.shields.io/badge/Language-HTML-orange"></img>
-**HTML Final Project**  
+<h2>💻 Final-Project</h2><img src="https://img.shields.io/badge/Language-HTML-orange"></img>
+<strong>HTML Final Project</strong>
 Showcases skills in:  
 - Web design  
 - Front-end implementation  
@@ -37,8 +37,8 @@ Showcases skills in:
 
 <!-- project_php Card -->
 <div style="border: 2px solid #6A5ACD; border-radius: 15px; padding: 15px; width: 300px;">
-### 🛠️ project_php !<img src="https://img.shields.io/badge/Language-PHP-purple"></img>
-**PHP Web Development Project**  
+<h2>🛠️ project_php </h2><img src="https://img.shields.io/badge/Language-PHP-purple"></img>
+<strong>HP Web Development Project</strong> 
 Focuses on:  
 - PHP programming  
 - Form handling  
