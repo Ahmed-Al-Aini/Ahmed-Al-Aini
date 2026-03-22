@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I'm Ahmed Sinan Al-Aini </h1>
+<h1> 👋 Hi, I'm <strong>Ahmed Al-Aini</strong> </h1>
 
 🎓 **Information Systems Student**  
 💻 Passionate about **programming and software development**  
