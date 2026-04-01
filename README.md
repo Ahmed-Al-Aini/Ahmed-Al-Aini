@@ -1,5 +1,5 @@
 
-#  Ahmed Al-Aini | Systems Architect in the Making
+<p align="center"> 👋🏻 Hi,I'm Ahmed Al-Aini <br> Systems Architect in the Making</p>
 
 > Information Systems Student • Building production-ready management systems • C++ & PHP Core
 
