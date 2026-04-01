@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <strong>Ahmed<br>Al-Aini</strong> </h1>
 
 🎓 **Information Systems Student**  
-💻 Passionate about **programming and software development**  
-🌱 Currently learning **C++, PHP, HTML, JavaScript, and Git**  
+💻 Passionate about **Web and software developments **  
+🌱 Currently learning **C++, PHP, HTML, JavaScript, MYSQL, SQL and Git**  
 🚀 I love building practical projects and improving my coding skills  
 
 ---
