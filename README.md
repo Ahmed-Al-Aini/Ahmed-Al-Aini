@@ -99,7 +99,7 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Senan-Al-Aini&style=for-the-badge&color=00FFAA" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=00FFAA" />
   <br/>
   <i>"Code that outlives the sprint — systems that scale, structures that survive."</i>
 </div>
