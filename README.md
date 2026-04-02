@@ -85,7 +85,6 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=radical)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF" />
 </div>
 
 ---
