@@ -3,7 +3,7 @@
 Systems Architect in the Making
 
 > • Information Systems Student.
- • Building production-ready management systems
+> • Building production-ready management systems
  • C++ & PHP Core
 
 ---
