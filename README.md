@@ -82,9 +82,6 @@ C++ • Stack • Queue • Dynamic Memory Management
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Aini&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFAA&sideLabels=FFFFFF&dates=AAAAAA" />
   <br/><br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=radical)
-
 </div>
 
 ---
