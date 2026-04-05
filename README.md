@@ -79,11 +79,6 @@ C++ • Stack • Queue • Dynamic Memory Management
 ## 📊 GitHub Pulse
 
 ![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-<br>
-![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-green.svg)
-<br>
-![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-<br>![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-season.svg)<br>![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-season-animate.svg)<br>![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-south-season-animate.svg)<br>![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-south-season.svg)
 
 ---
 
