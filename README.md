@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=00FFAA" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=flat-square&color=00FFAA" />
 </div>
 
 ---
