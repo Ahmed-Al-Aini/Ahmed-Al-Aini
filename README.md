@@ -11,7 +11,7 @@
 ## 🔥 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=Ubuntu&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
