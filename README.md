@@ -1,10 +1,8 @@
 
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0084F7&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0084F7&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG"/>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=00FFAA" />
