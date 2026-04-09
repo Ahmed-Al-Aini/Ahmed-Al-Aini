@@ -90,9 +90,9 @@ C++ • Stack • Queue • Dynamic Memory Management
 ## 📊 GitHub Pulse
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="3D Contributions" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-night-green.svg" width="800" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contributions" src="./profile-3d-contrib/profile-season-animate.svg" width="800" />
   </picture>
 </p>
 ---
