@@ -210,10 +210,7 @@ looking_for: Open-source collaborations & internship opportunities
 ---
 
 <!-- my-badges start -->
-<h3 align="center">🏅 My Badges</h3>
-<div align="center">
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
-</div>
 <!-- my-badges end -->
 
 <br/>
