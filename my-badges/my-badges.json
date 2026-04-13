@@ -5,5 +5,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/commit/abce1e328655bd00821852a5334a60756716d8ce\"><strong>abc</strong>e1e328655bd00821852a5334a60756716d8ce</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   }
 ]
