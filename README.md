@@ -6,11 +6,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=0e75b6&label=Profile+Views" />
-  <!--
- <img src="https://img.shields.io/github/project/Ahmed-Al-Aini?style=for-the-badge&color=0e75b6&label=Followers" />
--->
-    <img src="https://img.shields.io/badge/Projects-8-2ea44f?style=flat-square&logo=github" alt="Projects" />
   
+ <img src="https://img.shields.io/github/project/Ahmed-Al-Aini?style=for-the-badge&color=0e75b6&label=Followers" />
+
+   
 </div>
 
 <br/>
