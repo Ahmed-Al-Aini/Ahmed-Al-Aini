@@ -221,11 +221,6 @@ looking_for: Open-source collaborations & internship opportunities
 
 [![Email](https://img.shields.io/badge/Gmail-25160091%40su.edu.ye-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25160091@su.edu.ye)
 &nbsp;
-
-    <a href="https://linkedin.com/in/ahmed-alaini">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmed--Al--Aini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Al-Aini)
 
 <br/>
