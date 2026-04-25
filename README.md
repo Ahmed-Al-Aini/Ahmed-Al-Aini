@@ -67,7 +67,7 @@ looking_for: Open-source collaborations & internship opportunities
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=tokyonight&hide_border=true&langs_count=9&card_width=495" />
 </div>
 
 <br/>
