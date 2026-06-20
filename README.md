@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Web+Developer;C%2B%2B+%26+PHP+Systems+Engineer;Information+Systems+Student+%F0%9F%8E%93;Building+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=0e75b6&label=Profile+Views" />
-  
- <img src="https://img.shields.io/github/followers/Ahmed-Al-Aini?style=for-the-badge&color=0e75b6&label=Followers" />
-
-   
-</div>
 
 <br/>
 
