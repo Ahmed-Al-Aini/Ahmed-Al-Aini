@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Al-Aini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,24&height=180&section=header&text=Ahmed%20Al-Aini&fontSize=42&fontColor=F5F7FA&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Web+Developer;C%2B%2B+%26+PHP+Systems+Engineer;Information+Systems+Student+%F0%9F%8E%93;Building+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+<p align="center"><strong>Full-Stack Developer | Backend & Systems Engineering</strong></p>
 
 
 <br/>
@@ -26,6 +24,14 @@ looking_for: Open-source collaborations & internship opportunities
 ---
 
 ## 🚀 Tech Stack
+
+### 🧰 Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,php,python,js,html,css,bootstrap,mysql,git,github,linux,vscode&theme=light" />
+</p>
+
+<br/>
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,44 +61,23 @@ looking_for: Open-source collaborations & internship opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=495" />
-  <img src="https://streak-stats.demolab.com/?user=Ahmed-Al-Aini&theme=tokyonight&hide_border=true&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&card_width=495" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmed-Al-Aini&theme=github-dark-blue&hide_border=true&card_width=495" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=20&card_width=495" />
 </div>
 
 <br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Al-Aini&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Al-Aini&theme=github_dark" />
 </div>
-
-<!--
-
-<p align="center">
-  <a href="https://github.com/Ahmed-Al-Aini">
-    <!-- صورة أنيميشن الثعبان ستظهر هنا
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
-
-
-
-<div align="center"><!-- صورة الإحصائيات الشاملة (Metrics) ستظهر هنا 
-  <img alt="Metrics" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/github-metrics.svg">
-</div> 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Aini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
-</p>
-
--->
 
 <br/>
 
@@ -187,22 +172,10 @@ looking_for: Open-source collaborations & internship opportunities
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Aini&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Al-Aini&theme=github-dark&hide_border=true&area=true" width="95%" />
 </div>
 
 <br/>
-
----
-
-## 🌐 3D Contribution Globe
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light-rainbow.svg" />
-    <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  </picture>
-</p>
 
 ---
 
@@ -225,11 +198,4 @@ looking_for: Open-source collaborations & internship opportunities
 
 ---
 
-<!-- my-badges start 
-<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<!-- my-badges end -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,24&height=100&section=footer" width="100%"/>
