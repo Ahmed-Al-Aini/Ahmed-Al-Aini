@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,24&height=180&section=header&text=Ahmed%20Al-Aini&fontSize=42&fontColor=F5F7FA&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3200&pause=1200&color=2E4A62&center=true&vCenter=true&multiline=false&width=620&lines=Ahmed+Al-Aini;Full-Stack+Developer;Backend+%26+Systems+Engineering;Information+Systems+Student" alt="Typing SVG"/>
-</p>
+<p align="center"><strong>Full-Stack Developer | Backend & Systems Engineering</strong></p>
 
 
 <br/>
@@ -75,32 +73,11 @@ looking_for: Open-source collaborations & internship opportunities
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Overview
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Al-Aini&theme=github_dark" />
 </div>
-
-<!--
-
-<p align="center">
-  <a href="https://github.com/Ahmed-Al-Aini">
-    <!-- صورة أنيميشن الثعبان ستظهر هنا
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
-
-
-
-<div align="center"><!-- صورة الإحصائيات الشاملة (Metrics) ستظهر هنا 
-  <img alt="Metrics" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/github-metrics.svg">
-</div> 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Aini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
-</p>
-
--->
 
 <br/>
 
@@ -202,18 +179,6 @@ looking_for: Open-source collaborations & internship opportunities
 
 ---
 
-## 🌐 3D Contribution Globe
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light-rainbow.svg" />
-    <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 🤝 Connect & Collaborate
 
 <p align="center">I'm actively seeking <strong>open-source collaborations</strong> and <strong>internship opportunities</strong> in backend development and systems engineering.</p>
@@ -232,12 +197,5 @@ looking_for: Open-source collaborations & internship opportunities
 <br/>
 
 ---
-
-<!-- my-badges start 
-<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<!-- my-badges end -->
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,24&height=100&section=footer" width="100%"/>
